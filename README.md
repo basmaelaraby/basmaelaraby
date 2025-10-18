@@ -1,5 +1,5 @@
-# Hello! I'm Basma 👋
-I’m an aspiring UX & Fashion-Tech Creative Technologist exploring how design and AI connect people to style.
+# Hello! I'm Basma 👋🏼👒
+I’m an aspiring UX Designmer & Fashion-Tech Creative Technologist. I am interested in exploring how design and AI connect people to style.
 
 ### My Current Focus
 - Building an AI Style Curator app  
