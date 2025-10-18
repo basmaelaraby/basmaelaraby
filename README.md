@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/basmaelaraby/basmaelaraby/master/github_banner.png" alt="diy'ed banner">
 
 
 # Hello! I'm Basma 👋🏼👒
