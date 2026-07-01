@@ -9,4 +9,4 @@ I earned my Bachelor of Science in Computer Science from the University of Minne
 This GitHub is a reflection of my growth journey — a space where I learn, build, and create! 🤗
 
 ### My Portfolio Link
-- coming soon! 🔜
+https://basmaelaraby.github.io/portfolio-website/ 
